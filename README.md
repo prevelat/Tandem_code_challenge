@@ -29,7 +29,7 @@ We would also like to see a README which includes any information about how to r
 click on the link:
 https://colab.research.google.com/github/prevelat/Tandem_code_challenge/blob/master/TandemCodeChallenge.ipynb
 
-save a copy of the notebook in your drive: <br/>
+save a copy of the notebook in your drive so youcan run it and make sure you have a copy of the json file inside your colab folder too: <br/>
 <img src="https://github.com/prevelat/Tandem_code_challenge/blob/master/copy_notebook.png" width="300">
 
 run environment and follow instructions: <br/>
